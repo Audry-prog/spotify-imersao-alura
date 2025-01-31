@@ -30,7 +30,7 @@ spotify-imersao-alura/
 │── src/               # Código-fonte
 │   ├── assets/        # Imagens e ícones
 │   │   ├── icons/     # Ícones utilizados na aplicação
-│   │   └── playlist/ # Imagens dos álbuns dos cantores
+│   │   └── playlist/  # Imagens dos álbuns dos cantores
 │   └── styles/        # Arquivos CSS
 │── index.html         # Página principal
 │── script.js          # Lógica da aplicação
