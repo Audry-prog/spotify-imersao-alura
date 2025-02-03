@@ -71,4 +71,3 @@ Este projeto foi desenvolvido para fins educacionais durante a imersão da Alura
 ---
 
 💡 **Dúvidas ou sugestões?** Contribua com o projeto ou entre em contato! 😃
-
