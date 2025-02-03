@@ -52,7 +52,7 @@ spotify-imersao-alura/
    ```
 4. Inicie o **JSON Server** para servir os dados do artists.`json`:
    ```sh
-   json-server --watch app-artists/artists.json --port 3000
+   json-server --watch api-artists/artists.json --port 3000
    ```
 5. Abra o arquivo `index.html` no navegador ou utilize uma extensão como **Live Server** no VS Code.
 
