@@ -21,18 +21,18 @@ body{
 
 .logo{
     background: #121212;
-    display:flex;
-    border-radius:8px ;
+    display: flex;
+    border-radius: 8px ;
     padding: 16px 0 0 16px;
 }
 
 .sidebar__navigation .logo img{
-    width:150px;
+    width: 150px;
 }
 
 .sidebar nav ul{
     margin-top: 20px;
-    padding:0 20px 10px 20px;
+    padding: 0 20px 10px 20px;
 }
 
 .sidebar ul li{
@@ -46,44 +46,48 @@ body{
     font-size: 14px;
 }
 
+.sidebar nav ul li a span{
+    margin-right: 10px;
+}
+
 .library{
-    background-color:#121212;
-    border-radius:8px;
-    display:flex;
+    background-color: #121212;
+    border-radius: 8px;
+    display: flex;
     justify-content: space-between;
     flex-direction: column;
-    padding:4px 8px;
-    color:#b3b3b3;
+    padding: 4px 8px;
+    color: #b3b3b3;
     font-weight: 600;
-    font-size:14px;
+    font-size: 14px;
     margin-top: 8px;
 }
 
 .library .library__content{
-    display:flex;
+    display: flex;
     justify-content: space-between;
 }
 
 .library .library__button{
-    display:flex;
+    display: flex;
     margin-right: 10px;
-    color:#b3b3b3;
+    color: #b3b3b3;
     background-color: transparent;
-    border:0px;
+    border: 0px;
     font-size: 16px;
     font-weight: 700;
     text-align: center;
     text-decoration: none;
     text-transform: none;
-    padding:20px 10px;
+    padding: 20px 10px;
 }
 
 .library .library__button .fa{
-    font-size:20px;
+    font-size: 20px;
     font-weight: 300;
-    color:#b3b3b3;
+    color: #b3b3b3;
     margin-right: 10px;
-    padding-right:8px;
+    padding-right: 8px;
 }
 
 .library .library__content .fa-plus{
@@ -91,17 +95,17 @@ body{
 }
 
 .section-playlist{
-    display:flex;
+    display: flex;
     align-items: flex-start;
     justify-content: space-between;
-    gap:20px;
+    gap: 20px;
     background-color: #242424;
-    color:#b3b3b3;
+    color: #b3b3b3;
     font-weight: 600;
     font-size: 14px;
     margin: 8px 0;
-    padding:16px 20px;
-    border-radius:10px;
+    padding: 16px 20px;
+    border-radius: 10px;
 }
 
 .section-playlist .section-playlist__content{
@@ -111,8 +115,8 @@ body{
 }
 
 .section-playlist__content .text{
-    padding-bottom:14px;
-    color:#FFF;
+    padding-bottom: 14px;
+    color: #FFF;
 }
 
 .section-playlist__content .title{
@@ -128,14 +132,14 @@ body{
     display: flex;
     justify-content: center;
     background-color: #FFF;
-    color:#000;
+    color: #000;
     border-radius: 20px;
     font-weight: 700;
-    text-decoration:none;
+    text-decoration: none;
     text-transform: none;
-    padding:10px;
+    padding: 10px;
     margin-top: 12px;
-    border:0;
+    border: 0;
     width: 113px;
 }
 
@@ -146,7 +150,7 @@ body{
 .sidebar .cookies a{
     color:#b3b3b3;
     font-weight: 600;
-    font-size:12px;
+    font-size: 12px;
     text-decoration: none;
 }
 
@@ -188,7 +192,6 @@ body{
 
 .disclaimer-premium .disclaimer-premium__title {
     color: #ffffff;
-    /* text-transform: uppercase; */
     font-weight: 700;
     font-size: 14px;
     margin-bottom: 10px;

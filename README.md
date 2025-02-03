@@ -18,7 +18,6 @@ O projeto consiste em uma aplicação web que simula algumas funcionalidades do 
 - **JavaScript** → Manipulação do DOM e requisições
 - **JSON Server** → Simulação de API para buscar dados
 - **Fetch API** → Comunicação com o backend fake
-- **REACT** → Usado para construir o componente Header
 
 ## 📂 Estrutura do Projeto
 
